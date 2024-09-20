@@ -1,4 +1,4 @@
-### **Project: Secure Infrastructure Deployment with AWS CloudFormation**
+### **Project: Secure-Infrastructure-Deployment-with-AWS-CloudFormation-Bastion-Host-VPC-EC2-RDS**
 
 #### **Objective**:
 The goal of this project was to design and deploy a **highly available, secure, and scalable infrastructure** in AWS using **CloudFormation**. The architecture ensured the isolation of critical resources in private subnets while allowing secure access through a **Bastion Host**.
